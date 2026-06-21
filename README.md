@@ -19,4 +19,4 @@ A simple and responsive To-Do List application built using HTML, CSS, and JavaSc
 2. Open index.html in a browser
 
 ## Author
-Your Name
+Charumathi 
